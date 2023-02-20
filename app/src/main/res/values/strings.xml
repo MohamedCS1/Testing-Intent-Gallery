@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestGalleryIntent</string>
+    <string name="text_select_image_from_gallery">Select an image from gallery</string>
+
+</resources>
